@@ -1,4 +1,4 @@
-# API for website - [berkat.ru]:http://berkat.ru
+# API for website - [berkat.ru](http://berkat.ru)
 
 ### Setup:
 
